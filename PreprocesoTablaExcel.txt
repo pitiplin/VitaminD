@@ -1,0 +1,6 @@
+1 - Eliminar la primera columna con de la tabla (P-***)
+2 - Eliminar aquellas columnas y filas que no se esten usando
+3 - Eliminar las filas en blanco
+4 - Eliminar las filas que no siguen la estructura del archivo (sobre todo las querepiten la cabecera)
+5 - Calcular el IMC con la siguiente formula: "=G2/((H2/100)*(H2/100))" para la segunda fila y copiar la celda al resto de elementos de la columna
+6 - Calcular resto de parametros
